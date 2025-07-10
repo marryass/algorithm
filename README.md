@@ -1,18 +1,18 @@
-# 🧠 알고리즘 공부 기록
+###  알고리즘 공부 기록
 
 이 레포는 **「이것이 코딩 테스트다」 책**과 **나동빈 유튜브 강의**를 기반으로  
 알고리즘과 자료구조를 주제별로 정리하고 문제를 풀이한 기록입니다.
 
 <br/>
 
-## 📚 학습 자료
+###  학습 자료
 
-- 📘 책: [이것이 코딩 테스트다 (저자: 나동빈)](https://book.naver.com/bookdb/book_detail.naver?bid=16439154)
-- 🎥 유튜브: [나동빈 알고리즘 강의](https://www.youtube.com/@ndb796)
+-  책: [이것이 코딩 테스트다 (저자: 나동빈)](https://book.naver.com/bookdb/book_detail.naver?bid=16439154)
+-  유튜브: [나동빈 알고리즘 강의]([https://www.youtube.com/@ndb796](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC))
 
 <br/>
 
-## 🗂️ 폴더 구조
+###  폴더 구조
 
 ```bash
 algorithm/
