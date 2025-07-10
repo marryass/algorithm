@@ -25,5 +25,5 @@ algorithm/
 ├── 최단경로/           # Dijkstra, Floyd-Warshall 등
 ├── 그래프이론/         # Union-Find, 위상 정렬 등
 ├── 삼성기출/           # 삼성전자 기출 문제 (아기상어 등)
-├── README.md           # 이 파일
-└── 문제풀이기록.md     # 날짜별 문제 풀이 로그
+├── README.md           # README
+└── 문제풀이/            # 날짜별 문제 풀이 로그
