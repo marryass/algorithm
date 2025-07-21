@@ -8,8 +8,7 @@
 ###  학습 자료
 
 -  책: [이것이 코딩 테스트다 (저자: 나동빈)](https://book.naver.com/bookdb/book_detail.naver?bid=16439154)
--  유튜브: [나동빈 알고리즘 강의]([https://www.youtube.com/@ndb796](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC))
-
+-  유튜브: [나동빈 알고리즘 강의](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 <br/>
 
 ###  폴더 구조
