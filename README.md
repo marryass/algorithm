@@ -9,9 +9,8 @@
 
 -  책: [이것이 코딩 테스트다 (저자: 나동빈)](https://book.naver.com/bookdb/book_detail.naver?bid=16439154)
 -  유튜브: [나동빈 알고리즘 강의](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
--  백준 : [단계별로 풀어보기](https://www.acmicpc.net/step)
+-  백준: [단계별로 풀어보기](https://www.acmicpc.net/step)
 
--  https://www.acmicpc.net/step
 <br/>
 
 ###  폴더 구조
