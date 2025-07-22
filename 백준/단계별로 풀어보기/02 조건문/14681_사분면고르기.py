@@ -1,6 +1,6 @@
 # 20250722
 # https://www.acmicpc.net/problem/14681
-# 14681_사분면.py
+# 14681_사분면고르기.py
 
 '''
 문제
