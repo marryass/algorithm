@@ -1,4 +1,4 @@
-# 20250723
+# 20250724
 # https://www.acmicpc.net/problem/10807
 # 10807_개수세기.py
 
