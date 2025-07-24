@@ -1,4 +1,4 @@
-# 20250723
+# 20250724
 # https://www.acmicpc.net/problem/10871
 # 10871_X보다작은수.py
 
