@@ -25,18 +25,24 @@ O(g(n)) = {f(n) | 모든 n ≥ n0에 대하여 f(n) ≤ c × g(n)인 양의 상�
 f(n), c, n0가 O(n) 정의를 만족하면 1, 아니면 0을 출력한다.
 '''
 
-a, b = map(int, input().split())
+a1, a0 = map(int, input().split())
 c = int(input())
 n0 = int(input())
 
-f = a*n0 + b
-g = c*n0
 
-if f <= g:
-  print(1)
-else:
-  print(0)
+valid = True
 
+for n in range(n0, 101):
+  if a1*n + a0 > c*n:
+    valid = False
+    break
+
+print(1 if valid else 0)
+
+
+
+  
+  
 
 
 # 수정 필요 
