@@ -1,4 +1,4 @@
-# 20250730
+# 20250805
 # https://www.acmicpc.net/problem/17425
 # 17425_약수의 합.py
 
@@ -41,11 +41,15 @@ for i in range(1, n_max+1):
 n = int(sys.stdin.readline())
 
 
-# 시간 초과 다시 해야됨 
+out = []
 
-data = [sys.stdin.readline().strip() for i in range(n)]
+for _ in range(n):
+  num = int(sys.stdin.readline())
+  out.append(str(g[num]))
+
+sys.stdout.write("\n", join(out))
 
 
-for i in data:
-  num = int(i)
-  print(g[num])
+
+# 시간초과남 ㅋㅋ
+  
